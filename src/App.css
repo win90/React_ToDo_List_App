@@ -9,7 +9,7 @@ body{
   background-color:tomato;
 }
 .App{
-  background-color:black;
+  background-color:grey;
   min-height:700px;
   width: 800px;
   margin: 100px auto;
@@ -39,6 +39,7 @@ body{
   border: 0;
   background-color:#00FF00; 
   cursor: pointer;
+  font-size: 15px;
 }
 #to-do-form button:focus{
   outline: none;

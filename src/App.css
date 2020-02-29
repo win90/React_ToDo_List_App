@@ -9,7 +9,7 @@ body{
   background-color:greenyellow
 }
 .App{
-  background-color:grey;
+  background-color:orange;
   min-height:700px;
   width: 800px;
   margin: 100px auto;
@@ -37,7 +37,7 @@ body{
   width: 100px;
   border-radius: 5px;
   border: 0;
-  background-color:#00FF00; 
+  background-color: red; 
   cursor: pointer;
   font-size: 15px;
 }
